@@ -1,0 +1,15 @@
+//if you are doing the play command make sure to install the following
+----------------------------------------------------------------------------
+npm install opusscript
+----------------------------------------------------------------------------
+ONLY do that command in your console if you have not installed it, the bot doesnt join your VC (Voice Channel) or if you think something else might have an effect.
+----------------------------------------------------------------------------
+MAKE SURE TO CHECK YOUR DISCORD ROLE PERMS!
+
+- Check the VC Permissions for the role the bot has
+
+- Make sure the bot has some sort of role
+
+- And make sure to give access to any private channel you are testing it in 
+----------------------------------------------------------------------------
+Support Server: https://discord.gg/ej6EDKA
